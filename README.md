@@ -57,6 +57,9 @@ func BenchmarkPostfixToInfix(b *testing.B) {
 ### Bench chart
 ![Screenshot](part-3/lab4.chart.png)
 
+### Event Loop Diagram
+![Screenshot](part-3/event-loop-diagram.png)
+
 ### Code
 ```
 package main
@@ -89,4 +92,3 @@ func BenchmarkCount(b *testing.B) {
 	}
 }
 ```
-
